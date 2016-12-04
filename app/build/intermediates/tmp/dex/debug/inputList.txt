@@ -1,0 +1,5 @@
+F:\Works\myProjects\MyApplication\app\build\intermediates\classes\debug
+F:\Works\myProjects\MyApplication\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-fa25e42c716a0866b418fd1019597c258403609f.jar
+F:\Works\myProjects\MyApplication\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-578d63d5bde7ff8db66d941dbe2c59a719939631.jar
+F:\Works\myProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-81988cc77bdae126b8d2c71c0a89cd6f64b895b7.jar
+F:\Works\myProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-6fcc4dac073ff4c5259c6517c986a75fb67561ac.jar
