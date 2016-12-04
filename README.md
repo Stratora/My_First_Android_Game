@@ -3,7 +3,7 @@ My_First_Android_Game is my first project for Android operation system.
 The game is a simple 2D game with effect of size changing (Characters which locate close to the top of screen are smaller than those which on the bottom) 
 
 Screenshot of game
-![](https://github.com/Lrakulka/My_First_Android_Game/blob/master/app/GameScreen.png)
+![](https://github.com/Stratora/My_First_Android_Game/blob/master/app/GameScreen.png)
 ### Characters 
 There are four types of characters:
 * Cat (It puts presents for a player on the game map)
